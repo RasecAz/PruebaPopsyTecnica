@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\bin\Debug\PruebaTecnicaCoopidrogas.exe.config
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\bin\Debug\PruebaTecnicaCoopidrogas.exe
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\bin\Debug\PruebaTecnicaCoopidrogas.pdb
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\obj\Debug\PruebaTecnicaCoopidrogas.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\obj\Debug\PruebaTecnicaCoopidrogas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\obj\Debug\PruebaTecnicaCoopidrogas.exe
+C:\Users\usuario\Desktop\PruebaTecnicaEFC\PruebaTecnicaP\PruebaTecnicaCoopidrogas\obj\Debug\PruebaTecnicaCoopidrogas.pdb
